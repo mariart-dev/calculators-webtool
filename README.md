@@ -4,8 +4,6 @@ This project is a web tool offering a variety of calculators for different needs
 
 ## Images
 
-## Page
-
 ![Page](https://github.com/mariart-dev/calculators-webtool/blob/9a020e18b9cb947aa40de80058e8c15d02c20724/img/1.png)
 
 ### Calculator
