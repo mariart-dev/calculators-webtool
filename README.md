@@ -4,17 +4,13 @@ This project is a web tool offering a variety of calculators for different needs
 
 ## Images
 
-### Scientific Calculator
+## Page
 
-![Scientific Calculator](URL_SCIENTIFIC_CALCULATOR_IMAGE)
+![Page](https://github.com/mariart-dev/calculators-webtool/blob/9a020e18b9cb947aa40de80058e8c15d02c20724/img/1.png)
 
-### Programmer Calculator
+### Calculator
 
-![Programmer Calculator](URL_PROGRAMMER_CALCULATOR_IMAGE)
-
-### Financial Calculator
-
-![Financial Calculator](URL_FINANCIAL_CALCULATOR_IMAGE)
+![Calculator](https://github.com/mariart-dev/calculators-webtool/blob/9a020e18b9cb947aa40de80058e8c15d02c20724/img/4.png)
 
 ## Technologies Used
 
